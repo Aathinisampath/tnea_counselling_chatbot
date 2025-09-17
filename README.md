@@ -40,3 +40,4 @@ tnea-cutoff-predictor/
 │ └── project_report.pdf
 ├── README.md
 └── .gitignore
+└── .gitignore
