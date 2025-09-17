@@ -1,0 +1,45 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+venv/
+.venv/
+env/
+ENV/
+
+# Environment files / secrets
+.env
+.env.* 
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Python packaging / build
+build/
+dist/
+*.egg-info/
+
+# Machine learning models / data
+models/
+data/
+*.h5
+*.pt
+*.pkl
+
+# Logs
+*.log
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Node (if frontend)
+node_modules/
+dist/
+
+# Coverage / test outputs
+.coverage
+htmlcov/
